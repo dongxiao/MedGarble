@@ -22,5 +22,5 @@
   ~/emp-toolkit/emp-sh2pc/build$ ./bin/psi-ca 1 12345 36
   <br/>
   ~/emp-toolkit/emp-sh2pc/build$ ./bin/psi-ca 2 12345 36
-  
-  <br/>
+  <br/>  
+  The running time are 6399 seconds in a LAN setting (0.2ms latency) and 11740 seconds in a WAN setting (48ms latency) the experiments were performed on a system has an Intel i7-8750H 2.2 GHz CPU.
